@@ -60,8 +60,3 @@ This project is open-source and licensed under the MIT License. See the [LICENSE
 
 <img src = "./Screenshots/Screenshot 2024-11-02 181231.png">
 <img src = "./Screenshots/Screenshot 2024-11-02 181402.png">
-
-### Quick Tips:
-1. **Replace** `link_to_your_screenshot_1` and `link_to_your_screenshot_2` with actual URLs to your game screenshots.
-2. **Update** `yourusername` in the clone URL to your GitHub username.
-3. **Customize** any sections to suit your game’s style and details.
